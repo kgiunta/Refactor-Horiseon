@@ -4,18 +4,20 @@
 
 As my first attempt for building my professional portfolio I was given a single webpage create. The importance of this page was to provide insight on marketing and the importance of SEO as well as online presence management. This was a helpful activity in order to help my debugging skills as well as build my CSS knowledge. 
 
+## Table of Contents 
+
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+
 ## Installation
 
-Initally handed messy code based on client's need. Refactored the website by condensing CSS styles and creating a shorter more efficient source code. 
-This was installed via github from local files. 
-
+This was installed via github from local files and can be opened via a clone from my github account.
 
 ## Usage
 
 The following image demonstrates the web application's appearance.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
    
 ![This is the image of the website](./assets/images/screenshot.png)
 
