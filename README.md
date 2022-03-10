@@ -17,7 +17,7 @@ The following image demonstrates the web application's appearance.
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
    
-    ![alt text](.assets/images/screenshot.png)
+![This is the image of the website](./assets/images/screenshot.png)
 
 
 ## Credits
